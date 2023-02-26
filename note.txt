@@ -1,0 +1,9 @@
+pern-stack or node js with postgresql crud operation
+
+youthube pern stack crud (anisul islam totorial)
+https://www.youtube.com/watch?v=bt-krPEDMR4&list=PLgH5QX0i9K3qECvhYY54Un64kcIHBdGtc
+
+google or website (node js with postgresql crud operation)
+https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/
+https://www.makeuseof.com/crud-rest-api-postgresql-node-express/
+
