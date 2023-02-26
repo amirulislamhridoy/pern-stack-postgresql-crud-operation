@@ -13,7 +13,8 @@ create table users (
   name VARCHAR(30),
   email VARCHAR(30)
 );
-### const {Pool} = require('pg')
+### connect whit postgresql
+const {Pool} = require('pg')
 const pool = new Pool({
     user: 'postgres',
     host: 'localhost',
